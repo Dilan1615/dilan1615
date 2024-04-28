@@ -1,10 +1,10 @@
 <h1 align="center">Hola 👋, Soy Dilan Chamba</h1>
 
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Acerca De Mi
 
 🕹️ &nbsp;Me gusta leer novelas ligeras asi como jugar videojuegos.\
-🎓 &nbsp;Actualmente estoy estudiante Ciencias en la Computacion en la Univerisdad Nacional De Loja .\
+🎓 &nbsp;Actualmente estoy estudiante de Computacion en la Univerisdad Nacional De Loja .\
 🌱 &nbsp;Estoy aprendiendo sobre programacion orientada a objetos.\
 
 ### 🛠 &nbsp;Lenguajes que he estado aprendiendo
